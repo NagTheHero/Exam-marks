@@ -5,7 +5,7 @@ Exam results portal for both students and professors .
 
 
 ## Demo content
-Link: https://novel-cures.000webhostapp.com/  <br/>
+
 Website is under construction. <br/>
 - Admin Login: admin | Password: 123 <br/>
 - For Students: First Year | Roll No: 1011<br/>
